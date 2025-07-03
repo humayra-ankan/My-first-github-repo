@@ -1,2 +1,4 @@
 h1{background-color: rgb(174, 111, 202);color: rgb(240, 239, 238);}
 p{color: rgba(0, 0, 0, 0.762);font-style:italic; background-color: aquamarine;}
+.pass{color: black;}
+.fail,#absent{color:crimson; font-style:italic ;}
